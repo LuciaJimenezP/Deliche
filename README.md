@@ -1,4 +1,3 @@
-# Deliche
 # 🍞 Deliche – Sistema de Gestión para Panadería y Pastelería
 
 ### Aplicación desarrollada para la gestión integral de pedidos, clientes, inventario y pagos.
